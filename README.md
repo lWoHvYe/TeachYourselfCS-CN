@@ -6,6 +6,8 @@
 
 A Chinese translation of [TeachYourselfCS](https://teachyourselfcs.com/).
 
+[CS自学指南](https://csdiy.wiki/)
+
 ## 导航 Navigation
 
 * [原网页 Original](https://teachyourselfcs.com/)
